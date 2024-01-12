@@ -18,18 +18,6 @@
     <a href="#-commands">
         Commands
     </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-license">
-        License
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://www.youtube.com/c/midudev">
-        YouTube
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://twitter.com/midudev">
-        Twitter
-    </a>
 </div>
 
 <p></p>
