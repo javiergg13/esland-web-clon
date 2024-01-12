@@ -115,10 +115,6 @@ pnpm dev
 | ⚙️  | `build`          | Build your production site to `./dist/`.      |
 | ⚙️  | `preview`        | Preview your build locally, before deploying. |
 
-## 🔑 License
-
-[MIT](#) - Created by [**midu.dev**](https://midu.dev).
-
 ## ✅ Por hacer...
 
 - [ ] Crear página de Aviso Legal
