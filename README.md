@@ -37,10 +37,10 @@
 <div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/esland-web)
-![GitHub issues](https://img.shields.io/github/issues/midudev/esland-web)
-![GitHub forks](https://img.shields.io/github/forks/midudev/esland-web)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/esland-web)
+![GitHub stars](https://img.shields.io/github/stars/javiergg13/esland-web-clon)
+![GitHub issues](https://img.shields.io/github/issues/javiergg13/esland-web-clon)
+![GitHub forks](https://img.shields.io/github/forks/javiergg13/esland-web-clon)
+![GitHub PRs](https://img.shields.io/github/issues-pr/javiergg13/esland-web-clon)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 </div>
@@ -58,10 +58,10 @@
 
 ## 🚀 Getting Started
 
-1. [Fork](https://github.com/midudev/esland-web/fork) or clone this repository.
+1. [Fork](https://github.com/javiergg13/esland-web-clon/fork) or clone this repository.
 
 ```bash
-git clone git@github.com:midudev/esland-web.git
+git clone git@github.com:javiergg13/esland-web-clon.git
 ```
 
 2. Install the dependencies:
@@ -103,8 +103,8 @@ pnpm dev
 
 ### 🤝 Contributing
 
-<a href="https://github.com/midudev/esland-web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/esland-web" />
+<a href="https://github.com/javiergg13/esland-web-clon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=javiergg13/esland-web-clon" />
 </a>
 
 ## 🧞 Commands
@@ -127,9 +127,6 @@ pnpm dev
 - [ ] Añadir secciones que faltan de la página "Info"
 - [ ] Mejorar el contador para tener efecto "ease"
 - [ ] Mejorar la precarga de las imágenes de las siguientes secciones en idle
-
-### Lo haremos en directo
-
 - [ ] Sección de votaciones y base de datos
 - [ ] Añadir sección "Ganadores" en la página "Archivo"
 - [ ] Pestaña para cambiar entre ediciones en la página "Archivo"
